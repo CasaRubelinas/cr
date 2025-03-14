@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/IMG_7632.JPEG
   backgroundSize: cover
-  backgroundPosition: top
+  backgroundPosition: right-top
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
