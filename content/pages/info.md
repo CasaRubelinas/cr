@@ -14,9 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      Casa con alberca en el centro de Tequesquitengo. Capacidad para 16
-      ocupantes, con opción a 20. Crea momentos inolvidables en un cálido hogar
-      pet friendly. 
+      Casa con alberca en el centro de Tequesquitengo. 
+
+
+      Capacidad para 16 ocupantes, con opción a 20. Crea momentos inolvidables
+      en un cálido hogar pet friendly.
     media:
       type: ImageBlock
       url: /images/about.jpg
