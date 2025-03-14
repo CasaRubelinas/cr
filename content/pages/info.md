@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/548F213F-2631-41E0-AFF6-250A81D40C1B.jpg
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: bottom
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
