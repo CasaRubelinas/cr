@@ -35,7 +35,7 @@ sections:
     actions:
       - type: Button
         label: Reserva
-        altText: ''
+        altText: www.instagram.com/casa_rubelinas_mx
         url: www.instagram.com/casa_rubelinas_mx
         showIcon: false
         icon: arrowRight
