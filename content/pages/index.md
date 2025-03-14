@@ -34,7 +34,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        flexDirection: row-reverse
+        flexDirection: col-reverse
         textAlign: left
     type: HeroSection
     actions: []
