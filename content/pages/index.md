@@ -5,7 +5,7 @@ colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/IMG_0081.JPEG
-  backgroundSize: auto
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
