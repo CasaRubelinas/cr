@@ -5,7 +5,7 @@ colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/IMG_9324.JPG
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: top
   backgroundRepeat: no-repeat
   opacity: 100
