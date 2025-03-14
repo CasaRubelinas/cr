@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/IMG_9324.JPG
   backgroundSize: cover
-  backgroundPosition: right-bottom
+  backgroundPosition: top
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
