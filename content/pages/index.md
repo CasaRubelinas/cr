@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_0081.JPEG
+  url: /images/IMG_9324.JPG
   backgroundSize: cover
   backgroundPosition: bottom
   backgroundRepeat: no-repeat
