@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-f
     backgroundSize: full
     title: Casa Rubelinas
     subtitle: Tu casa de descanso en Tequesquitengo. Relájate y reconecta.
