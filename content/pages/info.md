@@ -14,11 +14,16 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      Casa con alberca en el centro de Tequesquitengo. 
+      Casa con alberca en el centro de Tequesquitengo, Morelos. 
 
 
       Capacidad para 16 ocupantes, con opción a 20. Crea momentos inolvidables
       en un cálido hogar pet friendly.
+
+
+      Tequesquitengo es conocido por su lago apodado cariñosamente "el mar de
+      Morelos" debido a su extensión. Un destino ideal para quienes disfrutan
+      del calor, la tranquilidad de un pueblo y las actividades acuáticas.
     media:
       type: ImageBlock
       url: /images/about.jpg
