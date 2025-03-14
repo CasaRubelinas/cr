@@ -251,6 +251,7 @@ sections:
         styles:
           self:
             textAlign: left
+            borderStyle: dotted
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
