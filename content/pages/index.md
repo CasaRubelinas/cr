@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-e
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/IMG_9324.JPG
