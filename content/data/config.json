@@ -48,7 +48,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/4.png",
-            "altText": "altText of the image",
+            "altText": "Casa Rubelnias",
             "caption": "Caption of the image",
             "elementId": ""
         }
