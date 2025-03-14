@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/Portada rubelinas.jpg
+  url: /images/42.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
