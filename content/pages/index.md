@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/IMG_9324.JPG
   backgroundSize: cover
   backgroundPosition: bottom
-  backgroundRepeat: repeat
+  backgroundRepeat: no-repeat
   opacity: 100
 sections:
   - elementId: ''
