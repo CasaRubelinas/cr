@@ -26,7 +26,7 @@ sections:
       del calor, la tranquilidad de un pueblo y las actividades acuáticas.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Portada rubelinas.jpg
       altText: Hero image
     styles:
       self:
