@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_0069.JPEG
+  url: /images/Diseño sin título.png
   backgroundSize: cover
   backgroundPosition: top
   backgroundRepeat: no-repeat
