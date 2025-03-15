@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/Diseño sin título.png
   backgroundSize: cover
-  backgroundPosition: bottom
+  backgroundPosition: top
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
