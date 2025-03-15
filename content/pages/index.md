@@ -5,7 +5,7 @@ colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/IMG_0069.JPEG
-  backgroundSize: cover
+  backgroundSize: auto
   backgroundPosition: bottom
   backgroundRepeat: no-repeat
   opacity: 100
