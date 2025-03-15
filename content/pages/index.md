@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/IMG_0069.JPEG
   backgroundSize: cover
-  backgroundPosition: top
+  backgroundPosition: bottom
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
