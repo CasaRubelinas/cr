@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: top
   backgroundRepeat: no-repeat
-  opacity: 62
+  opacity: 49
 sections:
   - elementId: ''
     colors: colors-f
