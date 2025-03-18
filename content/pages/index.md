@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: ''
+    title: Casa Rubelinas
     subtitle: ''
     styles:
       self:
