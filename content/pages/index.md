@@ -32,16 +32,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions:
-      - type: Button
-        label: Reserva
-        altText: 'https://instagram.com/casa_rubelinas_mx'
-        url: 'https://instagram.com/casa_rubelinas_mx'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/Tu casa de descanso en Tequesquitengo.png
