@@ -66,7 +66,7 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: left
-        borderWidth: 5
+        borderWidth: 0
   - elementId: ''
     colors: colors-f
     backgroundSize: full
