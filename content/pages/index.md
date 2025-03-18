@@ -33,12 +33,6 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/Tu casa de descanso en Tequesquitengo.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
