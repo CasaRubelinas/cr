@@ -59,7 +59,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: ''
     title: La casa
   - type: FeaturedPostsSection
     elementId: ''
