@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: ''
-    subtitle: Tu casa de descanso en Tequesquitengo. Relájate y reconecta.
+    subtitle: ''
     styles:
       self:
         height: auto
