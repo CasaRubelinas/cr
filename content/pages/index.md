@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: ¿Qué dicen nuestros huéspedes?
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
