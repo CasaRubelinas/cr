@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 100
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     text: "Ubicada en el centro de Tequesquitengo, Morelos, destino conocido por su gran lago conocido como el \"mar de Morelos\".\n\nTequesquitengo es el destino ideal para quienes desean disfrutar del sol y el calor, así como practicar deportes acuáticos o solamente disfrutar en familia en un lugar cálido con alberca.\n\nNuestra casa cuenta con todo lo necesario para una estancia sin preocupaciones.\n\n• Alberca con camastros para disfrutar del sol y relajarte \U0001F3CA‍♀️\n• 3 habitaciones con baño privado para mayor comodidad \U0001F6CF️\n• Cocina equipada con todo lo necesario \U0001F37D️\n• Jardín y área de asador para reuniones inolvidables \U0001F525\n• WiFi gratuito para quienes necesiten estar conectados \U0001F4F6\n• Estacionamiento privado para tu tranquilidad \U0001F697\n• Aire acondicionado en las habitaciones para un descanso agradable\n\n\nAdemás de todo, las mascotas son bienvenidas sin costo adicional.\n\nCasa Rubelinas tiene para 16 ocupantes, con opción a 20. \n\nCrea momentos inolvidables en un cálido hogar pet friendly.\n"
     media:
