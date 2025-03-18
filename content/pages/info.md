@@ -35,12 +35,7 @@ sections:
         textAlign: left
     type: HeroSection
     title: 'Casa Rubelinas: '
-    subtitle: >-
-      Ubicada en el corazón de Tequesquitengo, Morelos, nuestra casa es el lugar
-      perfecto para compartir momentos en familia o con amigos. Inspirada en la
-      sencillez y belleza del estilo mediterráneo-campirano, Casa Rubelinas
-      ofrece un ambiente acogedor, donde la serenidad y la diversión van de la
-      mano.
+    subtitle: Un cálido hogar para relajación y conexión en Tequesquitengo.
   - type: DividerSection
     styles:
       self:
