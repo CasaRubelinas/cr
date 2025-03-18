@@ -45,6 +45,7 @@ sections:
         textAlign: left
     type: HeroSection
     title: Tu casa de descansoen
+    subtitle: Tequesquitengo
   - type: DividerSection
     styles:
       self:
