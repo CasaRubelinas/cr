@@ -57,7 +57,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: Lo que te espera en Casa Rubelinas
+    subtitle: Capacidad para 16 huéspedes.
     images:
       - type: ImageBlock
         url: /images/logo1.svg
