@@ -32,6 +32,12 @@ sections:
     type: HeroSection
     title: 'Casa Rubelinas: '
     subtitle: Un cálido hogar para relajación y conexión en Tequesquitengo.
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     styles:
       self:
