@@ -60,7 +60,6 @@ sections:
     subtitle: Capacidad para 16 huéspedes
     images:
       - type: ImageBlock
-        url: /images/3.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
