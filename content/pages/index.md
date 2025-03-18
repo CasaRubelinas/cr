@@ -47,7 +47,7 @@ sections:
       title: Title of the video
       url: 'https://youtu.be/BD-YliszGkA'
       elementId: ''
-      autoplay: false
+      autoplay: true
       loop: false
       muted: false
       controls: true
