@@ -40,7 +40,7 @@ sections:
       - type: Button
         label: Reserva
         altText: ''
-        url: /
+        url: /instagram.com/casa_rubelinas_mx
         showIcon: true
         icon: arrowRight
         iconPosition: right
