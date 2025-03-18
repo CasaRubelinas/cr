@@ -62,6 +62,7 @@ sections:
       - type: ImageBlock
         altText: Logo one
         caption: Logo one
+        url: /images/3.png
       - type: ImageBlock
         url: /images/3.png
         altText: Logo two
