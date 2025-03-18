@@ -34,7 +34,7 @@ sections:
     subtitle: Un cálido hogar para relajación y conexión en Tequesquitengo.
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/Agregar un título.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
