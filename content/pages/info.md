@@ -94,6 +94,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: Lo que te espera en Casa Rubelinas
   - type: DividerSection
     styles:
       self:
