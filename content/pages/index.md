@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: Casa Rubelinas
+    title: ''
     subtitle: Tu casa de descanso en Tequesquitengo. Relájate y reconecta.
     styles:
       self:
