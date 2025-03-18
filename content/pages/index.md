@@ -44,7 +44,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/42.png
+      url: /images/Tu casa de descanso en Tequesquitengo.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
