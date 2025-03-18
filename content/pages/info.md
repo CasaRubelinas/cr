@@ -45,7 +45,7 @@ sections:
         textAlign: left
     type: HeroSection
     title: Casa Rubelinas
-    subtitle: "Tu casa de descanso en Tequesquitengo \U0001F305"
+    subtitle: Tu casa de descanso en Tequesquitengo.
   - type: DividerSection
     styles:
       self:
