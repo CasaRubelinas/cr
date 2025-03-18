@@ -60,7 +60,7 @@ sections:
     subtitle: Capacidad para 16 huéspedes
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/logo rubelinas (50 x 50 px).png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
