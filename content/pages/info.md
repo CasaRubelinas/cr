@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_7635.JPEG
+  url: /images/Diseño sin título.png
   backgroundSize: cover
   backgroundPosition: top
   backgroundRepeat: no-repeat
