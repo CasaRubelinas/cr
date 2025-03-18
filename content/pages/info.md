@@ -72,7 +72,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/4.png
+        url: /images/logo rubelinas (50 x 50 px) (4).png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
