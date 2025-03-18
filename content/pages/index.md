@@ -35,7 +35,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: ''
-    subtitle: ''
+    subtitle: ¿Qué dicen nuestros huéspedes?
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
