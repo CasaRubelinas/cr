@@ -35,7 +35,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Testimonios
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
