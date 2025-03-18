@@ -44,7 +44,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-    title: Descripción
+    title: Tu casa de descansoen
   - type: DividerSection
     styles:
       self:
