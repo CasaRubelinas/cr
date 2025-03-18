@@ -44,7 +44,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-    title: 'Casa Rubelinas: Tu casa de descanso en Tequesquitengo'
+    title: Casa Rubelinas
     subtitle: Tequesquitengo
   - type: DividerSection
     styles:
