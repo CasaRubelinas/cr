@@ -75,7 +75,7 @@ sections:
           - pr-4
         textAlign: center
   - type: CtaSection
-    title: Mira más reseñas
+    title: ''
     text: |
       Mira más reseñas
     actions:
