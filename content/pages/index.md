@@ -81,7 +81,8 @@ sections:
       - type: Button
         label: Mira más reseñas
         altText: ''
-        url: '/https://www.airbnb.mx/h/casarubelinasmx'
+        url: >-
+          https://www.airbnb.mx/rooms/21982346?check_in=2025-03-28&check_out=2025-03-30&guests=1&adults=15&s=67&unique_share_id=e0a4a105-4ed0-4201-967c-f1d7713bddcc
         showIcon: true
         icon: arrowRight
         iconPosition: right
