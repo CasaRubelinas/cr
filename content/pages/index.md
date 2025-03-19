@@ -80,7 +80,7 @@ sections:
       Somos Superhost en Airbnb
 
 
-      ![](/images/logo%20rubelinas%20\(50%20x%2050%20px\)%20\(300%20x%20300%20px\)%20\(2\).png)
+      ![](/images/logo%20rubelinas%20\(50%20x%2050%20px\)%20\(300%20x%20300%20px\)%20\(3\).png)
     actions:
       - type: Button
         label: Mira más reseñas
