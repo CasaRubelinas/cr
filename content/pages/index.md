@@ -75,7 +75,7 @@ sections:
           - pr-4
         textAlign: center
   - type: CtaSection
-    title: Mira más reseñas de nuestro huéspedes.
+    title: Mira más reseñas de nuestros huéspedes.
     text: |
       Mira más reseñas de nuestros huéspedes.
     actions:
