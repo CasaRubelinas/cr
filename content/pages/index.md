@@ -75,7 +75,7 @@ sections:
           - pr-4
         textAlign: center
   - type: CtaSection
-    title: Let's do this
+    title: Mira más reseñas
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
