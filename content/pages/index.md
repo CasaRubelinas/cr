@@ -43,7 +43,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/logo rubelinas (50 x 50 px) (300 x 300 px).png
         altText: Image two
         caption: Image two caption
         elementId: ''
