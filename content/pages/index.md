@@ -77,7 +77,9 @@ sections:
   - type: CtaSection
     title: Mira más reseñas de nuestros huéspedes.
     text: |
-      Somos Superhost en Airbnb![](/images/RUBELINAS_GOOGLE%20\(1\).png)
+      Somos Superhost en Airbnb
+
+      ![](/images/RUBELINAS_GOOGLE%20\(2\).png)
     actions:
       - type: Button
         label: Mira más reseñas
