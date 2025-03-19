@@ -38,7 +38,7 @@ sections:
     subtitle: ¿Qué dicen nuestros huéspedes?
     images:
       - type: ImageBlock
-        url: /images/24.png
+        url: /images/1.png
         altText: Image one
         caption: Image one caption
         elementId: ''
