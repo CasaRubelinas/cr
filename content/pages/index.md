@@ -111,7 +111,7 @@ sections:
         flexDirection: row
         textAlign: left
   - type: LabelsSection
-    title: Airbnb Superhost
+    title: Somos Airbnb Superhost
     subtitle: The section subtitle
     items:
       - type: Label
