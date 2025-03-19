@@ -81,7 +81,7 @@ sections:
       - type: Button
         label: Mira más reseñas
         altText: ''
-        url: /
+        url: '/http:'
         showIcon: true
         icon: arrowRight
         iconPosition: right
