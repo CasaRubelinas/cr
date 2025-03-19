@@ -76,7 +76,8 @@ sections:
         textAlign: center
   - type: CtaSection
     title: ''
-    text: ''
+    text: |
+      Mira más reseñas de nuestros huéspedes.
     actions:
       - type: Button
         label: Mira más reseñas
