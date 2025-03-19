@@ -76,8 +76,7 @@ sections:
         textAlign: center
   - type: CtaSection
     title: ''
-    text: |
-      Mira más reseñas
+    text: ''
     actions:
       - type: Button
         label: Try it now
