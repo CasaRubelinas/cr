@@ -79,7 +79,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Mira más reseñas
         altText: ''
         url: /
         showIcon: true
