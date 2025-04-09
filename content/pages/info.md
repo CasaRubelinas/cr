@@ -162,9 +162,6 @@ sections:
     subtitle: Haz tu escapada una realidad.
     items:
       - type: Label
-        label: Microsoft Office
-        url: ''
-      - type: Label
         label: Next.js
         url: ''
       - type: Label
