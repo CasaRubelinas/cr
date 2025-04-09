@@ -30,7 +30,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Ubicación",
                 "altText": "",
                 "url": "/ubicacion",
                 "showIcon": false,
