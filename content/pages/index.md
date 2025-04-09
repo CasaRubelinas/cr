@@ -126,6 +126,28 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
+  - colors: colors-f
+    type: FeaturedProjectsSection
+    elementId: ''
+    actions: []
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    projects: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        textAlign: left
+    subtitle: ''
+    title: La casa
   - type: MediaGallerySection
     title: Galería
     subtitle: ''
@@ -167,28 +189,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions: []
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: left
-    subtitle: ''
-    title: La casa
   - type: CtaSection
     title: Ubicación
     text: "Ubicada en el centro de Tequesquitengo. Muy cerca de clubs de playa, restaurantes y tiendas de abarrotes.\n\nCarretera\_Morelos Xoxocotla - Jojutla de Juárez 450, Colonia Loma Bonita, 62915 Tequesquitengo, Mor.\n"
