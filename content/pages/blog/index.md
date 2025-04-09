@@ -4,7 +4,7 @@ title: Blog
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Diseño sin título.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
