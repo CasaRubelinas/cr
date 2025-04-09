@@ -131,47 +131,6 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
-  - type: MediaGallerySection
-    title: Galería
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 4
-    aspectRatio: '2:3'
-    showCaption: false
-    enableHover: false
-    elementId: Galería
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        textAlign: center
   - type: CtaSection
     title: Ubicación
     text: "Ubicada en el centro de Tequesquitengo. Muy cerca de clubs de playa, restaurantes y tiendas de abarrotes.\n\nCarretera\_Morelos Xoxocotla - Jojutla de Juárez 450, Colonia Loma Bonita, 62915 Tequesquitengo, Mor.\n"
