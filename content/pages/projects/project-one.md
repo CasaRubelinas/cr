@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: ''
-colors: colors-a
+colors: colors-d
 date: ''
 client: ''
 description: Google maps
