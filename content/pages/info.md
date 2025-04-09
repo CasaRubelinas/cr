@@ -52,7 +52,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: Capacidad para 16 huéspedes
+    subtitle: Capacidad para 15 huéspedes
     images:
       - type: ImageBlock
         altText: Logo one
