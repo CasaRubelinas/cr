@@ -47,7 +47,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/4.png",
+            "url": "/images/2.png",
             "altText": "",
             "caption": "Caption of the image",
             "elementId": ""
