@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     title: Ubicación
     subtitle: >-
-      Dirección: Morelos Xoxocotla - Jojutla de Juárez 450, Colonia Loma Bonita,
+      Carretera Morelos Xoxocotla - Jojutla de Juárez 450, Colonia Loma Bonita,
       62915 Tequesquitengo, Mor.
     text: ''
     colors: colors-f
