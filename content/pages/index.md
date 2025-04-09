@@ -42,8 +42,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    text: |
-      Tu casa de descanso en Tequesquitengo
+    text: ''
     media:
       type: ImageBlock
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
