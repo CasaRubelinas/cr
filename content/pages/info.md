@@ -130,7 +130,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://airbnb.com/h/casarubelinasmx'
         styles:
           self:
             textAlign: left
