@@ -71,12 +71,6 @@ sections:
       agradable posible. Haz realidad tu viaje a Tequesquitengo, todo con la
       comodidad de un servicio directo y sin intermediarios.</div>
 
-
-      </div>
-
-
-      <div style="text-align: center"></div>
-
     actions:
       - type: Button
         label: Más reseñas
