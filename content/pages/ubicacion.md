@@ -4,7 +4,9 @@ title: ubicacion
 sections:
   - type: TextSection
     title: Ubicación
-    subtitle: Centro de Tequesquitengo
+    subtitle: >-
+      Dirección: Morelos Xoxocotla - Jojutla de Juárez 450, Colonia Loma Bonita,
+      62915 Tequesquitengo, Mor.
     text: ''
     colors: colors-f
     variant: variant-a
