@@ -22,7 +22,7 @@ sections:
           - pr-4
         textAlign: left
 addTitleSuffix: true
-colors: colors-b
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/Diseño sin título.png
