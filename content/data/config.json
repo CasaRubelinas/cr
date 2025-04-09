@@ -17,14 +17,6 @@
                 "type": "Link",
                 "label": "Ubicación",
                 "url": "/"
-            },
-            {
-                "type": "Link",
-                "label": "Reserva",
-                "url": "/",
-                "altText": "",
-                "icon": "instagram",
-                "showIcon": true
             }
         ],
         "socialLinks": [
