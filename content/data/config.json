@@ -13,7 +13,7 @@
                 "label": "la casa",
                 "altText": "",
                 "url": "/lacasa",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
