@@ -107,8 +107,7 @@ sections:
       - type: Link
         label: Superhost Airbnb
         altText: ''
-        url: >-
-          https://www.airbnb.mx/rooms/21982346?check_in=2025-03-28&check_out=2025-03-30&guests=1&adults=15&s=67&unique_share_id=e0a4a105-4ed0-4201-967c-f1d7713bddcc
+        url: 'https://www.airbnb.mx/users/show/160496907'
         showIcon: true
         icon: ''
         iconPosition: right
