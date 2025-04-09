@@ -90,6 +90,6 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
-        borderRadius: x-large
+        borderRadius: none
         borderWidth: 2
 ---
