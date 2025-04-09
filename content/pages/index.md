@@ -69,7 +69,7 @@ sections:
       convenientes. El equipo detrás de este espacio está siempre atento a las
       necesidades de los visitantes, buscando que cada estadía sea lo más
       agradable posible. Haz realidad tu viaje a Tequesquitengo, todo con la
-      comodidad de un servicio directo y sin intermediarios.\*</div>
+      comodidad de un servicio directo y sin intermediarios.</div>
 
     actions:
       - type: Button
