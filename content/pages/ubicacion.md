@@ -4,7 +4,7 @@ title: ubicacion
 sections:
   - type: TextSection
     title: Ubicación
-    subtitle: The section subtitle
+    subtitle: Centro de Tequesquitengo
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
