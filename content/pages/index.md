@@ -127,14 +127,7 @@ sections:
     form:
       type: FormBlock
       title: Title of the form
-      fields:
-        - type: EmailFormControl
-          name: email
-          label: Name
-          hideLabel: false
-          placeholder: Your email
-          width: full
-          isRequired: 'true'
+      fields: []
       submitLabel: Sign Up
       elementId: contact-form
       styles:
