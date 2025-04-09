@@ -122,7 +122,7 @@ sections:
           - pb-10
         borderWidth: 1
   - type: ContactSection
-    title: Casa Rubelinas
+    title: ''
     text: |
       ## Casa Rubelinas
 
