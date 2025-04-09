@@ -158,7 +158,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Label
