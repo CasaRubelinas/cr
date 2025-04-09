@@ -40,7 +40,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Reserva",
                 "altText": "",
                 "url": "/Reserva",
                 "showIcon": false,
