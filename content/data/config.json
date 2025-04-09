@@ -7,13 +7,7 @@
         "isSticky": true,
         "title": "",
         "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Ubicación",
-                "url": "/"
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
