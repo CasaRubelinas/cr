@@ -163,7 +163,7 @@ sections:
     items:
       - type: Label
         label: 'Reserva aquí:'
-        url: '/https://instagram.com/casa_rubelinas_mx'
+        url: 'https://instagram.com/casa_rubelinas_mx'
     colors: colors-f
     elementId: ''
     styles:
