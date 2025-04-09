@@ -82,7 +82,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: narrow
         padding:
           - pt-0
           - pb-0
