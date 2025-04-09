@@ -159,7 +159,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     title: Relájate y Reconecta
-    subtitle: ''
+    subtitle: Haz tu escapada una realidad.
     items:
       - type: Label
         label: React
