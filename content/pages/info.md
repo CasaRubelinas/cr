@@ -11,24 +11,6 @@ backgroundImage:
   opacity: 100
 sections:
   - type: HeroSection
-    title: 'Casa Rubelinas:'
-    subtitle: Un cálido hogar de relajación y conexión en Tequesquitengo.
-    actions: []
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row
-        textAlign: left
-  - type: HeroSection
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
