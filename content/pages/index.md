@@ -44,6 +44,16 @@ sections:
         elementId: ''
     text: |
       Tu casa de descanso en Tequesquitengo
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        borderWidth: 1
   - type: CtaSection
     title: Somos Super Anfitrión en Airbnb
     text: >+
