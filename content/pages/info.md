@@ -10,42 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
-  - type: HeroSection
-    title: >-
-      Casa Rubelinas: Un cálido hogar de relajación y conexión en
-      tequesquitengo.
-    subtitle: Conócela en este recorrido visual.
-    actions:
-      - type: Button
-        label: Reserva
-        altText: ''
-        url: /instagram.com/casa_rubelinas_mx
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/Agregar un título.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row-reverse
-        textAlign: left
-        borderWidth: 0
   - elementId: ''
     colors: colors-f
     backgroundSize: full
