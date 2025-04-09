@@ -10,16 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Galería",
-                "altText": "",
-                "url": "/galeria",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Reserva",
                 "altText": "",
                 "url": "/reserva",
