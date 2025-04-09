@@ -91,4 +91,5 @@ sections:
         flexDirection: row
         textAlign: left
         borderRadius: x-large
+        borderWidth: 2
 ---
