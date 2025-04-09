@@ -10,16 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "La casa",
-                "altText": "",
-                "url": "/info",
-                "showIcon": false,
-                "icon": "",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Galería",
                 "altText": "",
                 "url": "/galeria",
