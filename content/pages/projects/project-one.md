@@ -4,7 +4,7 @@ title: ''
 colors: colors-a
 date: ''
 client: ''
-description: Google maps
+description: Google ma
 media:
   type: ImageBlock
   url: /images/bg1.jpg
