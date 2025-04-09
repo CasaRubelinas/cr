@@ -122,7 +122,7 @@ sections:
           - pb-10
         borderWidth: 1
   - type: ContactSection
-    title: Subscribe
+    title: Casa Rubelinas
     text: Join my newsletter to stay up-to-date
     form:
       type: FormBlock
