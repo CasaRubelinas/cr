@@ -59,7 +59,7 @@ sections:
     text: >+
       <div style="text-align:
       left">![](/images/logo%20rubelinas%20\(50%20x%2050%20px\)%20\(300%20x%20300%20px\)%20\(3\).png)Con
-      **7 años consecutivos* como Superhost en Airbnb****, Casa Rubelinas ha
+      **7 años consecutivos como Súper Anfitrión en Airbnb**, Casa Rubelinas ha
       demostrado un firme compromiso con la calidad y la satisfacción de sus
       huéspedes lo que ha permitido mantener esta distinción año tras año. A lo
       largo de los años, se ha perfeccionado el servicio para ofrecer una
@@ -69,7 +69,7 @@ sections:
       convenientes. El equipo detrás de este espacio está siempre atento a las
       necesidades de los visitantes, buscando que cada estadía sea lo más
       agradable posible. Haz realidad tu viaje a Tequesquitengo, todo con la
-      comodidad de un servicio directo y sin intermediarios.*</div>
+      comodidad de un servicio directo y sin intermediarios.\*</div>
 
     actions:
       - type: Button
