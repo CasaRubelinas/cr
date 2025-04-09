@@ -136,7 +136,7 @@ sections:
       styles:
         self:
           textAlign: left
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
