@@ -162,9 +162,6 @@ sections:
     subtitle: Haz tu escapada una realidad.
     items:
       - type: Label
-        label: Netlify
-        url: ''
-      - type: Label
         label: Pancakes
         url: ''
       - type: Label
