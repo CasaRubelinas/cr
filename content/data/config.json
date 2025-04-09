@@ -20,16 +20,6 @@
             },
             {
                 "type": "Link",
-                "label": "Ubicación",
-                "altText": "",
-                "url": "/ubicacion",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Reserva",
                 "altText": "",
                 "url": "/reserva",
