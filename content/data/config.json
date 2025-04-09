@@ -21,7 +21,8 @@
             {
                 "type": "Link",
                 "label": "Reserva",
-                "url": "/"
+                "url": "/",
+                "altText": "fbfgb"
             }
         ],
         "socialLinks": [
