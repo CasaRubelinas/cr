@@ -196,7 +196,7 @@ sections:
       - type: Button
         label: Google Maps
         altText: ''
-        url: '18.60598, -99.25850'
+        url: '/18.60598, -99.25850'
         showIcon: true
         icon: arrowRight
         iconPosition: right
