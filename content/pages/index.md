@@ -111,4 +111,14 @@ sections:
         textAlign: left
         borderRadius: none
         borderWidth: 0
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        borderWidth: 1
 ---
