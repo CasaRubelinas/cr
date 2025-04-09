@@ -163,7 +163,7 @@ sections:
     items:
       - type: Label
         label: 'Reserva aquí:'
-        url: ''
+        url: /instagram.com
     colors: colors-f
     elementId: ''
     styles:
