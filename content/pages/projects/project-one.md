@@ -4,7 +4,7 @@ title: ''
 colors: colors-a
 date: ''
 client: ''
-description: Google ma
+description: Google maps
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/default-image.png'
