@@ -127,7 +127,7 @@ sections:
         flexDirection: row
         textAlign: left
   - type: MediaGallerySection
-    title: Gallery
+    title: Galería
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
