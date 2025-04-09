@@ -79,7 +79,17 @@ sections:
   - type: CtaSection
     title: Somos Superhost en Airbnb
     text: >
-      Somos Superhost en Airbnb
+      Con **7 años consecutivos como Superhost en Airbnb**, Casa Rubelinas ha
+      demostrado un firme compromiso con la calidad y la satisfacción de sus
+      huéspedes lo que ha permitido mantener esta distinción año tras año. A lo
+      largo de los años, se ha perfeccionado el servicio para ofrecer una
+      estancia cómoda y sin complicaciones, siempre cuidando cada detalle. Al
+      reservar directamente desde este sitio, los huéspedes disfrutan de una
+      experiencia sin intermediarios, con la posibilidad de obtener tarifas más
+      convenientes. El equipo detrás de este espacio está siempre atento a las
+      necesidades de los visitantes, buscando que cada estadía sea lo más
+      agradable posible. Haz realidad tu viaje a Tequesquitengo, todo con la
+      comodidad de un servicio directo y sin intermediarios."
 
 
       ![](/images/logo%20rubelinas%20\(50%20x%2050%20px\)%20\(300%20x%20300%20px\)%20\(3\).png)
