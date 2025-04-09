@@ -79,11 +79,11 @@ sections:
   - type: CtaSection
     title: Somos Superhost en Airbnb
     text: >
-      <div style="text-align: center">Con **7 años consecutivos como Superhost
-      en Airbnb**, Casa Rubelinas ha demostrado un firme compromiso con la
-      calidad y la satisfacción de sus huéspedes lo que ha permitido mantener
-      esta distinción año tras año. A lo largo de los años, se ha perfeccionado
-      el servicio para ofrecer una estancia cómoda y sin complicaciones, siempre
+      <div style="text-align: left">Con **7 años consecutivos como Superhost en
+      Airbnb**, Casa Rubelinas ha demostrado un firme compromiso con la calidad
+      y la satisfacción de sus huéspedes lo que ha permitido mantener esta
+      distinción año tras año. A lo largo de los años, se ha perfeccionado el
+      servicio para ofrecer una estancia cómoda y sin complicaciones, siempre
       cuidando cada detalle. Al reservar directamente desde este sitio, los
       huéspedes disfrutan de una experiencia sin intermediarios, con la
       posibilidad de obtener tarifas más convenientes. El equipo detrás de este
