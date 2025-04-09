@@ -3,7 +3,7 @@ type: ProjectLayout
 title: ''
 colors: colors-a
 date: ''
-client: Awesome client
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
