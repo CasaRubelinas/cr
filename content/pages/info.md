@@ -121,7 +121,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: Facebook
             url: 'https://codepen.io/'
         styles:
           self:
