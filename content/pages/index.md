@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions: []
     text: |
-      Relájate y Reconecta
+      Tu casa de descanso en Tequesquitengo
   - type: MediaGallerySection
     title: ''
     subtitle: ¿Qué dicen nuestros huéspedes?
