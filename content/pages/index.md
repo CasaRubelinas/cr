@@ -196,7 +196,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: '/https://maps.app.goo.gl/yb5mBVtpgpnEPXQK8'
         showIcon: true
         icon: arrowRight
         iconPosition: right
