@@ -52,7 +52,7 @@ sections:
         width: full
         padding:
           - pt-16
-          - pb-36
+          - pb-16
         borderWidth: 1
   - type: CtaSection
     title: Somos Super Anfitrión en Airbnb
