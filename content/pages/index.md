@@ -77,7 +77,7 @@ sections:
           - pr-4
         textAlign: center
   - type: CtaSection
-    title: Mira más reseñas de nuestros huéspedes.
+    title: Superhost en Airbnb por 7 años consecutivos
     text: >
       Somos Superhost en Airbnb
 
