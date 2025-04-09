@@ -154,7 +154,7 @@ sections:
     spacing: 16
     columns: 3
     aspectRatio: '2:3'
-    showCaption: false
+    showCaption: true
     enableHover: false
     elementId: ''
     styles:
