@@ -78,7 +78,7 @@ sections:
         elementId: ''
     colors: colors-f
     backgroundSize: inset
-    elementId: Airbnb
+    elementId: airbnb
     styles:
       self:
         height: auto
