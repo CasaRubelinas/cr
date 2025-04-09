@@ -32,7 +32,7 @@ sections:
         textAlign: left
     type: HeroSection
     title: 'Casa Rubelinas:'
-    subtitle: Conócela en este recorrido visual.
+    subtitle: Un cálido hogar de relajación y conexión en tequesquitengo.
     media:
       type: ImageBlock
       url: /images/Agregar un título.png
