@@ -32,7 +32,16 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /www.instagram.com/casa_rubelinas_mx
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: |
       Tu casa de descanso en Tequesquitengo
   - type: CtaSection
