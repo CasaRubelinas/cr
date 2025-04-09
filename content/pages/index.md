@@ -191,9 +191,7 @@ sections:
     title: La casa
   - type: CtaSection
     title: Ubicación
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: "Ubicada en el centro de Tequesquitengo. Muy cerca de clubs de playa, restaurantes y tiendas de abarrotes.\n\nCarretera\_Morelos Xoxocotla - Jojutla de Juárez 450, Colonia Loma Bonita, 62915 Tequesquitengo, Mor.\n"
     actions:
       - type: Button
         label: Try it now
