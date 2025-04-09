@@ -129,7 +129,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Airbnb
             url: 'https://airbnb.com/h/casarubelinasmx'
         styles:
           self:
