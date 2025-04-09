@@ -22,7 +22,8 @@
                 "type": "Link",
                 "label": "Reserva",
                 "url": "/",
-                "altText": ""
+                "altText": "",
+                "icon": "instagram"
             }
         ],
         "socialLinks": [
