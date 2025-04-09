@@ -126,7 +126,7 @@ sections:
     text: |
       ## Casa Rubelinas
 
-      Haz realidad tu escapada.
+      Haz tu escapada una realidad.
     form:
       type: FormBlock
       title: Title of the form
