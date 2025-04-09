@@ -42,7 +42,7 @@
                 "type": "Link",
                 "label": "Reserva",
                 "altText": "",
-                "url": "/Reserva",
+                "url": "/reserva",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
