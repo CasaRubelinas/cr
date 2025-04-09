@@ -159,7 +159,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: Relájate y reconecta
     items:
       - type: Label
         label: React
