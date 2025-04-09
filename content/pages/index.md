@@ -96,7 +96,7 @@ sections:
       ![](/images/logo%20rubelinas%20\(50%20x%2050%20px\)%20\(300%20x%20300%20px\)%20\(3\).png)
     actions:
       - type: Button
-        label: 'Superanfitrión Airbnb '
+        label: Más reseñas
         altText: ''
         url: ''
         showIcon: true
