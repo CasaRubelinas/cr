@@ -162,9 +162,6 @@ sections:
     subtitle: Haz tu escapada una realidad.
     items:
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Swift
         url: ''
     colors: colors-f
