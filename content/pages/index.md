@@ -156,7 +156,7 @@ sections:
     aspectRatio: '2:3'
     showCaption: false
     enableHover: false
-    elementId: ''
+    elementId: Galería
     styles:
       self:
         height: auto
