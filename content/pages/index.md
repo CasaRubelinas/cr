@@ -123,7 +123,10 @@ sections:
         borderWidth: 1
   - type: ContactSection
     title: Casa Rubelinas
-    text: Join my newsletter to stay up-to-date
+    text: |
+      ## Casa Rubelinas
+
+      Haz realidad tu escapada.
     form:
       type: FormBlock
       title: Title of the form
