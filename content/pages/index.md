@@ -197,7 +197,7 @@ sections:
         label: Google Maps
         altText: ''
         url: >-
-          https://www.google.com/maps/place/Casa+Rubelinas/@18.6059189,-99.2591517,179m/data=!3m2!1e3!4b1!4m14!1m7!3m6!1s0x85cdd494fd7d8213:0xd4ff674228863ecf!2sCasa+Rubelinas!8m2!3d18.6059176!4d-99.258508!16s%2Fg%2F11hd1qg1tz!3m5!1s0x85cdd494fd7d8213:0xd4ff674228863ecf!8m2!3d18.6059176!4d-99.258508!16s%2Fg%2F11hd1qg1tz?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D
+          /www.google.com/maps/place/Casa+Rubelinas/@18.6059189,-99.2591517,179m/data=!3m2!1e3!4b1!4m14!1m7!3m6!1s0x85cdd494fd7d8213:0xd4ff674228863ecf!2sCasa+Rubelinas!8m2!3d18.6059176!4d-99.258508!16s%2Fg%2F11hd1qg1tz!3m5!1s0x85cdd494fd7d8213:0xd4ff674228863ecf!8m2!3d18.6059176!4d-99.258508!16s%2Fg%2F11hd1qg1tz?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D
         showIcon: true
         icon: arrowRight
         iconPosition: right
