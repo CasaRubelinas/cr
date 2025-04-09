@@ -105,7 +105,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Superhost Airbnb
+        label: Super Anfitrión Airbnb
         altText: ''
         url: 'https://www.airbnb.mx/users/show/160496907'
         showIcon: true
