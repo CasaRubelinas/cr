@@ -122,7 +122,7 @@ sections:
         actions:
           - type: Link
             label: Facebook
-            url: 'https://codepen.io/'
+            url: 'https://facebook.com/casarubelinasmx'
         styles:
           self:
             textAlign: left
