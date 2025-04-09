@@ -160,10 +160,7 @@ sections:
   - type: LabelsSection
     title: Relájate y Reconecta
     subtitle: Haz tu escapada una realidad.
-    items:
-      - type: Label
-        label: Swift
-        url: ''
+    items: []
     colors: colors-f
     elementId: ''
     styles:
