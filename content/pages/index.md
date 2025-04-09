@@ -131,22 +131,4 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
-  - type: CtaSection
-    title: Ubicación
-    text: "Ubicada en el centro de Tequesquitengo. Muy cerca de clubs de playa, restaurantes y tiendas de abarrotes.\n\nCarretera\_Morelos Xoxocotla - Jojutla de Juárez 450, Colonia Loma Bonita, 62915 Tequesquitengo, Mor.\n"
-    actions: []
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        flexDirection: col
-        textAlign: left
 ---
