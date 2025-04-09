@@ -33,7 +33,7 @@ sections:
     title: >-
       Casa Rubelinas: Un cálido hogar de relajación y conexión en
       tequesquitengo.
-    subtitle: Un cálido hogar de relajación y conexión en Tequesquitengo.
+    subtitle: Conócela en este recorrido visual.
     media:
       type: ImageBlock
       url: /images/Agregar un título.png
