@@ -121,16 +121,16 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            label: Instagram
+            url: 'https://www.instagram.com/'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+            label: Discord
+            url: 'https://discord.com/'
         styles:
           self:
             textAlign: left
