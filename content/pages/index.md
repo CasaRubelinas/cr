@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Casa Rubelinas
     subtitle: Relájate y Reconecta
     styles:
