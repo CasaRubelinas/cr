@@ -77,7 +77,7 @@ sections:
           - pr-4
         textAlign: center
   - type: CtaSection
-    title: Somos Superhost en Airbnb
+    title: Somos Super Anfitrión en Airbnb
     text: >
       <div style="text-align: left">Con **7 años consecutivos como Superhost en
       Airbnb**, Casa Rubelinas ha demostrado un firme compromiso con la calidad
