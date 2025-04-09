@@ -158,7 +158,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    title: ''
+    title: Relájate y Reconecta
     subtitle: ''
     items:
       - type: Label
