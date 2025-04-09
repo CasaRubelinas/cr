@@ -30,7 +30,9 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-    title: 'Casa Rubelinas: '
+    title: >-
+      Casa Rubelinas: Un cálido hogar de relajación y conexión en
+      tequesquitengo.
     subtitle: Un cálido hogar de relajación y conexión en Tequesquitengo.
     media:
       type: ImageBlock
