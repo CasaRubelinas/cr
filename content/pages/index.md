@@ -33,6 +33,8 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |
+      Relájate y Reconecta
   - type: MediaGallerySection
     title: ''
     subtitle: ¿Qué dicen nuestros huéspedes?
