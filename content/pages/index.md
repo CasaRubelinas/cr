@@ -196,7 +196,7 @@ sections:
       - type: Button
         label: Google Maps
         altText: ''
-        url: /maps.app.goo.gl/EjD6aZnu2R11Fw4J9
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
