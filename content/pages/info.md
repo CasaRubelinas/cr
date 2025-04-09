@@ -162,7 +162,7 @@ sections:
     subtitle: Haz tu escapada una realidad.
     items:
       - type: Label
-        label: Haz tu escapada una realidad
+        label: 'Reserva aquí:'
         url: ''
     colors: colors-f
     elementId: ''
