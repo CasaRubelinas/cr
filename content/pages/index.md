@@ -44,6 +44,12 @@ sections:
         elementId: ''
     text: |
       Tu casa de descanso en Tequesquitengo
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     title: Divider
     elementId: ''
