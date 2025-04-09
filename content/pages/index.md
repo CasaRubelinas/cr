@@ -77,7 +77,7 @@ sections:
         iconPosition: right
         elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     elementId: ''
     styles:
       self:
