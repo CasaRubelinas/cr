@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "Galería",
                 "altText": "",
-                "url": "/galería",
+                "url": "/galeria",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
