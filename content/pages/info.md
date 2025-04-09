@@ -160,7 +160,10 @@ sections:
   - type: LabelsSection
     title: Relájate y Reconecta
     subtitle: Haz tu escapada una realidad.
-    items: []
+    items:
+      - type: Label
+        label: Haz tu escapada una realidad
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
