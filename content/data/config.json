@@ -23,7 +23,8 @@
                 "label": "Reserva",
                 "url": "/",
                 "altText": "",
-                "icon": "instagram"
+                "icon": "instagram",
+                "showIcon": true
             }
         ],
         "socialLinks": [
