@@ -107,7 +107,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
+    subtitle: '¿Tiene preguntas? Contáctenos aquí:'
     colors: colors-f
     items:
       - type: FeaturedItem
