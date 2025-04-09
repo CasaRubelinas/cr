@@ -13,12 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ##### Rodeada de un **amplio jardín**, con rincones llenos de encanto,
-      aquí encontrarás un espacio que invita a la calma y a la convivencia.
-      Disfruta de una comida al aire libre con un mantel blanco ondeando con la
-      brisa, una charla bajo la sombra de los árboles o un baño refrescante en
-      la alberca mientras el sol brilla sobre el agua.
+    text: |+
+      #####
 
     styles:
       self:
