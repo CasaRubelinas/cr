@@ -13,7 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: ''
+    text: |
+      Conócela en este recorrido visual.
     styles:
       self:
         height: auto
