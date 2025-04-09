@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Lacasa
+title: lacasa
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
