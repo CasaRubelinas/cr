@@ -119,6 +119,6 @@ sections:
         width: full
         padding:
           - pt-10
-          - pb-36
+          - pb-10
         borderWidth: 1
 ---
