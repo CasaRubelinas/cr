@@ -7,7 +7,18 @@
         "isSticky": true,
         "title": "",
         "isTitleVisible": false,
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/lacasa",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "socialLinks": [
             {
                 "type": "Social",
