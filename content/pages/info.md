@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About
-colors: colors-b
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/Diseño sin título.png
