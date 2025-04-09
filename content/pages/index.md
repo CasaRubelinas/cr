@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: ''
-    subtitle: Relájate y Reconecta
+    subtitle: ''
     styles:
       self:
         height: auto
