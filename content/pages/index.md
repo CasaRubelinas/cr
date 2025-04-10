@@ -119,7 +119,7 @@ sections:
           - pb-0
           - pl-4
           - pr-4
-        flexDirection: col
+        flexDirection: col-reverse
         textAlign: center
     media:
       type: ImageBlock
