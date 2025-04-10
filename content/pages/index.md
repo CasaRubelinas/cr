@@ -46,7 +46,7 @@ sections:
       - type: Button
         label: Revisa la disponibilidad de nuestro calendario aquí
         altText: ''
-        url: 'https://www.instagram.com/casa_rubelinas_mx'
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
