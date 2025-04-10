@@ -93,7 +93,7 @@ sections:
         label: Reserva por Instagram
         altText: ''
         url: 'https://www.instagram.com/casa_rubelinas_mx'
-        showIcon: false
+        showIcon: true
         icon: instagram
         iconPosition: right
         style: primary
