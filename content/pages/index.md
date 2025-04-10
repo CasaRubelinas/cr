@@ -45,7 +45,7 @@ sections:
       - type: Button
         label: Conoce la casa en este recorrido visual
         altText: ''
-        url: ''
+        url: /galeria
         showIcon: false
         icon: arrowRight
         iconPosition: right
