@@ -43,7 +43,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Conoce la casa en este recorrido visual
+        label: Reserva aquí
         altText: ''
         url: /galeria
         showIcon: false
