@@ -103,7 +103,7 @@ sections:
         altText: ''
         url: 'https://www.facebook.com/casarubelinasmx'
         showIcon: true
-        icon: arrowRight
+        icon: facebook
         iconPosition: right
         style: primary
         elementId: ''
