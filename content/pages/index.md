@@ -64,7 +64,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: /
+        url: 'https://www.facebook.com/casarubelinasmx'
         showIcon: false
         icon: arrowRight
         iconPosition: right
