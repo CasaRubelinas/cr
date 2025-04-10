@@ -75,7 +75,7 @@ sections:
       type: ImageBlock
       url: /images/Diseño sin título.png
       altText: ''
-      caption: Caption of the image
+      caption: ''
       elementId: ''
   - type: DividerSection
     title: Divider
