@@ -57,7 +57,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: row
-        textAlign: left
+        textAlign: center
     media:
       type: ImageBlock
       url: >-
