@@ -40,7 +40,7 @@
             },
             {
                 "type": "Link",
-                "label": "Reserva o cotiza",
+                "label": "Reserva",
                 "altText": "",
                 "url": "/reserva",
                 "showIcon": false,
