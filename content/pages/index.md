@@ -32,7 +32,16 @@ sections:
         flexDirection: col-reverse
         textAlign: center
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: www.instagram.com/casa_rubelinas_mx
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     text: ''
     media:
       type: ImageBlock
