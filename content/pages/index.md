@@ -80,7 +80,7 @@ sections:
         width: wide
         padding:
           - pt-3
-          - pb-3
+          - pb-0
           - pl-4
           - pr-4
         flexDirection: row
