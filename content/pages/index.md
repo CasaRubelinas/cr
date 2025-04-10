@@ -65,7 +65,7 @@ sections:
         label: Reserva por Facebook y ahorra en la comisión de Airbnb
         altText: ''
         url: 'https://www.facebook.com/casarubelinasmx'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
