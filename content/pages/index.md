@@ -52,7 +52,16 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://www.airbnb.com/h/casarubelinasmx'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
