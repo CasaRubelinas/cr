@@ -53,7 +53,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Reserva directamente aquí y ahorra la comisión de airbnb
+        label: Reserva directamente aquí y ahorra en la comisión de airbnb
         altText: ''
         url: /galeria
         showIcon: false
