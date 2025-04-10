@@ -35,7 +35,7 @@ sections:
     colors: colors-f
     spacing: 0
     columns: 3
-    aspectRatio: '2:3'
+    aspectRatio: '1:1'
     showCaption: false
     enableHover: false
     elementId: ''
