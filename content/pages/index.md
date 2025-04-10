@@ -32,15 +32,7 @@ sections:
         flexDirection: col-reverse
         textAlign: center
     type: HeroSection
-    actions:
-      - type: Link
-        label: Haz tu escapada una realidad
-        altText: ''
-        url: ''
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     text: ''
     media:
       type: ImageBlock
