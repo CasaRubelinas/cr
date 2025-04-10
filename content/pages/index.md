@@ -29,7 +29,7 @@ sections:
           - pb-5
           - pl-4
           - pr-4
-        flexDirection: col-reverse
+        flexDirection: col
         textAlign: center
     type: HeroSection
     actions: []
