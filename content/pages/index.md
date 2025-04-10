@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Haz tu escapada una realidad aquí
+        label: Pregunta por disponibilidad y costos
         altText: ''
         url: 'https://www.instagram.com/casa_rubelinas_mx'
         showIcon: false
