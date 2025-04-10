@@ -45,7 +45,7 @@ sections:
     text: ''
     media:
       type: ImageBlock
-      url: /images/RUBELINAS_GOOGLE.png
+      url: /images/RUBELINAS_GOOGLE (1).png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
