@@ -66,7 +66,7 @@ sections:
         altText: ''
         url: 'https://www.facebook.com/casarubelinasmx'
         showIcon: true
-        icon: arrowLeftCircle
+        icon: arrowRightCircle
         iconPosition: right
         style: secondary
         elementId: ''
