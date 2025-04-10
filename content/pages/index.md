@@ -73,7 +73,7 @@ sections:
     text: ''
     media:
       type: ImageBlock
-      url: /images/Agregar un título.png
+      url: /images/Diseño sin título (1).png
       altText: ''
       caption: ''
       elementId: ''
