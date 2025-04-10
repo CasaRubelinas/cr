@@ -43,7 +43,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Somos Super Anfitrión en Airbnb
+        label: Conoce la casa en este recorrido visual
         altText: ''
         url: ''
         showIcon: false
