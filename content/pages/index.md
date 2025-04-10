@@ -119,7 +119,7 @@ sections:
           - pb-5
           - pl-4
           - pr-4
-        flexDirection: row
+        flexDirection: col
         textAlign: center
   - type: DividerSection
     title: Divider
