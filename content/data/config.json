@@ -10,9 +10,9 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Ubicación",
+                "label": "La casa",
                 "altText": "",
-                "url": "/ubicacion",
+                "url": "/info",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -20,9 +20,9 @@
             },
             {
                 "type": "Link",
-                "label": "La casa",
+                "label": "Ubicación",
                 "altText": "",
-                "url": "/info",
+                "url": "/ubicacion",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
