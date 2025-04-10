@@ -4,7 +4,7 @@ title: Galería
 sections:
   - type: MediaGallerySection
     title: ''
-    subtitle: ''
+    subtitle: Recámaras
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
