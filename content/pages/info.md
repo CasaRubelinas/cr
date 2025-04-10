@@ -108,7 +108,10 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: >-
+      Cuenta con 3 recámaras, cada una con baño completo, aire acondicionado,
+      ventilador de techo y televisión. Capacidad para 5 ocupantes - 2 camas
+      matrimoniales y 1 cama individual.
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
