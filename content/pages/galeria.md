@@ -4,7 +4,7 @@ title: Galería
 sections:
   - type: MediaGallerySection
     title: Recámaras
-    subtitle: Recámaras
+    subtitle: 3 recámaras con baño completo cada una
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
