@@ -17,7 +17,7 @@ sections:
     subtitle: ''
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         margin:
           - mt-0
