@@ -46,7 +46,7 @@ sections:
       - type: Button
         label: Revisa la disponibilidad de nuestro calendario aquí
         altText: ''
-        url: ''
+        url: 'https://www.airbnb.com/h/casarubelinasmx'
         showIcon: false
         icon: arrowRight
         iconPosition: right
