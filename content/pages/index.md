@@ -43,7 +43,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Somos Super Anfitrión en Airbnb
         altText: ''
         url: 'https://www.instagram.com/casa_rubelinas_mx'
         showIcon: false
