@@ -181,6 +181,16 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        borderWidth: 1
   - type: HeroSection
     title: Ubicación
     subtitle: >-
