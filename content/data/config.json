@@ -10,9 +10,9 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "La casa",
+                "label": "Reserva",
                 "altText": "",
-                "url": "/info",
+                "url": "/reserva",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -20,9 +20,9 @@
             },
             {
                 "type": "Link",
-                "label": "Reserva",
+                "label": "La casa",
                 "altText": "",
-                "url": "/reserva",
+                "url": "/info",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
