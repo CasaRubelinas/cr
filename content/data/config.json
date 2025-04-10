@@ -20,9 +20,9 @@
             },
             {
                 "type": "Link",
-                "label": "Ubicación",
+                "label": "Galería",
                 "altText": "",
-                "url": "/ubicacion",
+                "url": "/galeria",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -30,9 +30,9 @@
             },
             {
                 "type": "Link",
-                "label": "Galería",
+                "label": "Ubicación",
                 "altText": "",
-                "url": "/galeria",
+                "url": "/ubicacion",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
