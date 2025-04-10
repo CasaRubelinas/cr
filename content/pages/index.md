@@ -96,7 +96,7 @@ sections:
         showIcon: true
         icon: instagram
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
       - type: Button
         label: Reserva por Facebook
