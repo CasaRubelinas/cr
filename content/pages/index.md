@@ -32,16 +32,7 @@ sections:
         flexDirection: col-reverse
         textAlign: center
     type: HeroSection
-    actions:
-      - type: Button
-        label: Revisa la disponibilidad de nuestro calendario aquí
-        altText: ''
-        url: 'https://www.airbnb.com/h/casarubelinasmx'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     text: ''
     media:
       type: ImageBlock
