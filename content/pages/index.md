@@ -103,7 +103,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: CtaSection
-    title: Somos Super Anfitrión en Airbnb
+    title: ''
     text: |+
       <div style="text-align: left"></div>
 
