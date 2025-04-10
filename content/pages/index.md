@@ -45,7 +45,7 @@ sections:
       - type: Button
         label: Somos Super Anfitrión en Airbnb
         altText: ''
-        url: 'https://www.airbnb.com/h/casarubelinasmx'
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
