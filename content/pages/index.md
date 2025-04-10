@@ -42,15 +42,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Button
-        label: Reserva por Facebook
-        altText: ''
-        url: 'https://www.facebook.com/casarubelinasmx'
-        showIcon: true
-        icon: facebook
-        iconPosition: right
-        style: primary
-        elementId: ''
     text: ''
     media:
       type: ImageBlock
