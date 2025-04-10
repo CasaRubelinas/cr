@@ -73,7 +73,7 @@ sections:
     text: ''
     media:
       type: ImageBlock
-      url: /images/RUBELINAS_GOOGLE (7).png
+      url: /images/RUBELINAS_GOOGLE (8).png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
