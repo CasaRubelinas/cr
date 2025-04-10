@@ -118,7 +118,7 @@ sections:
 
     actions:
       - type: Button
-        label: Más reseñas
+        label: Testimonios
         altText: ''
         url: 'https://www.airbnb.mx/h/casarubelinasmx'
         showIcon: true
