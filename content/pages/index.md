@@ -55,7 +55,7 @@ sections:
       - type: Button
         label: Reserva directamente aquí y ahorra en la comisión de Airbnb
         altText: ''
-        url: /galeria
+        url: 'https://www.airbnb.com/h/casarubelinasmx'
         showIcon: false
         icon: arrowRight
         iconPosition: right
