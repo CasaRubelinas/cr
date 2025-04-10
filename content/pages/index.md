@@ -102,7 +102,7 @@ sections:
         label: Reserva por Facebook
         altText: ''
         url: 'https://www.facebook.com/casarubelinasmx'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
