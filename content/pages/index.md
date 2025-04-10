@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Pregunta por disponibilidad y costos aquí
+        label: Revisa la disponibilidad de nuestro calendario
         altText: ''
         url: 'https://www.instagram.com/casa_rubelinas_mx'
         showIcon: false
