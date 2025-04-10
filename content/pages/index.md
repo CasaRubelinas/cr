@@ -62,7 +62,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Reserva por facebook
+        label: Reserva por Facebook y ahorra en la comisión de airbnb
         altText: ''
         url: 'https://www.facebook.com/casarubelinasmx'
         showIcon: false
