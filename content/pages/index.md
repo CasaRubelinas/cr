@@ -54,7 +54,7 @@ sections:
         elementId: ''
       - type: Button
         label: Reserva directamente aquí y ahorra en la comisión de Airbnb
-        altText: 'https://www.instagram.com/casa_rubelinas_mx'
+        altText: ''
         url: ''
         showIcon: false
         icon: arrowRight
