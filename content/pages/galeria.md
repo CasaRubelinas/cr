@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: galeria
+title: Galería
 sections:
   - type: HeroSection
     title: ''
