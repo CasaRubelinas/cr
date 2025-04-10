@@ -3,7 +3,7 @@ type: PageLayout
 title: Galería
 sections:
   - type: MediaGallerySection
-    title: Recámaras
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
