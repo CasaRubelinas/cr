@@ -36,7 +36,7 @@ sections:
       - type: Link
         label: Haz tu escapada una realidad
         altText: ''
-        url: www.instagram.com/casa_rubelinas_mx
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
