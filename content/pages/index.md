@@ -96,6 +96,12 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: CtaSection
     title: Somos Super Anfitrión en Airbnb
     text: |+
