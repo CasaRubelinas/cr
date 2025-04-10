@@ -30,6 +30,16 @@
             },
             {
                 "type": "Link",
+                "label": "Reseñas",
+                "altText": "",
+                "url": "/reseñas",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Ubicación",
                 "altText": "",
                 "url": "/ubicacion",
@@ -43,16 +53,6 @@
                 "label": "Reserva",
                 "altText": "",
                 "url": "/reserva",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Reseñas",
-                "altText": "",
-                "url": "/reseñas",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
