@@ -53,7 +53,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Reserva por instagram y ahorra en la comisión de Airbnb
+        label: Reserva por Instagram y ahorra en la comisión de Airbnb
         altText: ''
         url: 'https://www.instagram.com/casa_rubelinas_mx'
         showIcon: false
