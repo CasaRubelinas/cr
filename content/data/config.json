@@ -50,7 +50,7 @@
             },
             {
                 "type": "Link",
-                "label": "Reseñas y testimonios",
+                "label": "Reseñas",
                 "altText": "",
                 "url": "/reseñas",
                 "showIcon": false,
