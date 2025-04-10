@@ -95,7 +95,7 @@ sections:
         url: 'https://www.instagram.com/casa_rubelinas_mx'
         showIcon: true
         icon: instagram
-        iconPosition: left
+        iconPosition: right
         style: primary
         elementId: ''
       - type: Button
