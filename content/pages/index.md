@@ -32,16 +32,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions:
-      - type: Button
-        label: Haz tu escapada una realidad
-        altText: ''
-        url: 'https://instagram.com/casa_rubelinas_mx'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     text: ''
     media:
       type: ImageBlock
