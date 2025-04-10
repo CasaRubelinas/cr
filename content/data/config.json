@@ -30,7 +30,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Galería",
                 "altText": "",
                 "url": "/galeria",
                 "showIcon": false,
