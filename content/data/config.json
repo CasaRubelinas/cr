@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "La casa",
                 "altText": "",
-                "url": "/lacasa",
+                "url": "/info",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
