@@ -54,7 +54,7 @@ sections:
       - type: Link
         label: Recorrido visual de la casa
         altText: ''
-        url: 'https://www.instagram.com/casa_rubelinas_mx'
+        url: 'https://www.airbnb.com/h/casarubelinasmx'
         showIcon: false
         icon: arrowRight
         iconPosition: right
