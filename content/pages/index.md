@@ -91,7 +91,7 @@ sections:
         width: wide
         padding:
           - pt-0
-          - pb-6
+          - pb-0
           - pl-4
           - pr-4
         flexDirection: col-reverse
