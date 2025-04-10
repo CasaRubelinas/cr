@@ -52,7 +52,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Recorrido visual de la casa
         altText: ''
         url: 'https://www.instagram.com/casa_rubelinas_mx'
         showIcon: false
