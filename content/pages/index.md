@@ -33,16 +33,6 @@ sections:
         textAlign: center
     type: HeroSection
     actions:
-      - type: Link
-        label: >-
-          Somos Súper Anfitrión en Airbnb por 7 años consecutivos y favorito
-          entre viajeros
-        altText: ''
-        url: 'https://www.airbnb.com/h/casarubelinasmx'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
       - type: Button
         label: Revisa la disponibilidad de nuestro calendario aquí
         altText: ''
