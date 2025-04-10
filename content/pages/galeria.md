@@ -5,8 +5,8 @@ sections:
   - type: MediaGallerySection
     title: Recámaras
     subtitle: >-
-      Cuenta con 3 recámaras, cada una con baño completo, aire acondicionado. y
-      capacidad para 5 ocupantes. 2 camas matrimoniales y 1 cama individual.
+      Cuenta con 3 recámaras, cada una con baño completo, aire acondicionado.
+      Capacidad para 5 ocupantes. 2 camas matrimoniales y 1 cama individual.
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
