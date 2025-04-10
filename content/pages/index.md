@@ -43,7 +43,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Reserva aquí
+        label: Reserva o cotiza aquí
         altText: ''
         url: /galeria
         showIcon: false
