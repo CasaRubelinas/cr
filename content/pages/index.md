@@ -98,7 +98,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/RUBELINAS_GOOGLE (3).png
+      url: /images/RUBELINAS_GOOGLE (4).png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
