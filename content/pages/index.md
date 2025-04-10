@@ -36,7 +36,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: www.instagram.com/casa_rubelinas_mx
+        url: 'https://www.instagram.com/casa_rubelinas_mx'
         showIcon: false
         icon: arrowRight
         iconPosition: right
