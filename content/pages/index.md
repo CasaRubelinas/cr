@@ -182,7 +182,7 @@ sections:
         flexDirection: row
         textAlign: left
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
