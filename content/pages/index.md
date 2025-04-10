@@ -99,7 +99,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Reserva por Facebook
         altText: ''
         url: 'https://www.facebook.com/casarubelinasmx'
         showIcon: false
