@@ -3,7 +3,7 @@ type: PageLayout
 title: Galería
 sections:
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
