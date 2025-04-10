@@ -52,7 +52,9 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Somos Súper Anfitrión en Airbnb por 7 años consecutivos
+        label: >-
+          Somos Súper Anfitrión en Airbnb por 7 años consecutivos y favorito
+          entre viajeros
         altText: ''
         url: 'https://www.airbnb.com/h/casarubelinasmx'
         showIcon: false
