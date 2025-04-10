@@ -51,6 +51,14 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://www.instagram.com/casa_rubelinas_mx'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     text: ''
     media:
       type: ImageBlock
