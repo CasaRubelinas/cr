@@ -54,7 +54,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Learn more
+        label: Fechas y precios
         altText: ''
         url: 'https://www.airbnb.com/h/casarubelinasmx'
         showIcon: false
