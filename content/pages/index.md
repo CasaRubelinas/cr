@@ -306,6 +306,18 @@ sections:
           - pr-4
         flexDirection: col-reverse
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        borderWidth: 1
   - type: MediaGallerySection
     title: ''
     subtitle: ''
