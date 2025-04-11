@@ -262,7 +262,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: HeroSection
-    title: La casa
+    title: ''
     subtitle: ''
     actions: []
     colors: colors-f
