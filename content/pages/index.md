@@ -258,7 +258,7 @@ sections:
           - pb-36
           - pl-4
           - pr-4
-        borderWidth: 1
+        borderWidth: 4
   - type: HeroSection
     title: La casa
     subtitle: ''
