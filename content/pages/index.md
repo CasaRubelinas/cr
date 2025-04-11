@@ -62,7 +62,7 @@ sections:
       type: ImageBlock
       url: >-
         /images/Reserva directamente por Instagram, Facebook o Whatsapp y ahorra
-        en la comisión de airbnb. (2).png
+        en la comisión de airbnb. (3).png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
