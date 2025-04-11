@@ -160,7 +160,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/Sisio web rubelinas (1).png
+      url: /images/Sisio web rubelinas (3).png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
