@@ -227,7 +227,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: col-reverse
-        textAlign: left
+        textAlign: center
     media:
       type: ImageBlock
       url: /images/Sisio web rubelinas (2).png
