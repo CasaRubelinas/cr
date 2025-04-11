@@ -37,7 +37,7 @@ addTitleSuffix: true
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
-  url: /images/Diseño sin título.png
+  url: /images/Agregar un título.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
