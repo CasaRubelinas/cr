@@ -142,7 +142,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/Sisio web rubelinas (8).png
         altText: Image three
         caption: Image three caption
         elementId: ''
