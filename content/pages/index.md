@@ -139,7 +139,7 @@ sections:
           - pl-4
           - pr-4
         borderWidth: 1
-        borderStyle: dashed
+        borderStyle: solid
   - type: HeroSection
     title: ''
     subtitle: ''
