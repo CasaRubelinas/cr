@@ -219,7 +219,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Learn more
+        label: Conoce más
         altText: ''
         url: /info
         showIcon: false
