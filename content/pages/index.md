@@ -260,7 +260,7 @@ sections:
           - pl-4
           - pr-4
         borderWidth: 1
-        borderStyle: dotted
+        borderStyle: solid
   - type: HeroSection
     title: La casa
     subtitle: ''
