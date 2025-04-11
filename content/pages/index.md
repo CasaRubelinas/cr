@@ -200,16 +200,6 @@ sections:
         textAlign: left
         borderRadius: none
         borderWidth: 0
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-10
-          - pb-10
-        borderWidth: 1
   - type: HeroSection
     title: ''
     subtitle: ''
