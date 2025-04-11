@@ -135,7 +135,7 @@ sections:
         width: narrow
         padding:
           - pt-10
-          - pb-36
+          - pb-10
           - pl-4
           - pr-4
         borderWidth: 1
