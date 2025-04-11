@@ -96,24 +96,6 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    actions: []
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-3
-          - pb-0
-          - pl-4
-          - pr-4
-        flexDirection: col-reverse
-        textAlign: center
-  - type: HeroSection
-    title: ''
-    subtitle: ''
     actions:
       - type: Button
         label: Reserva por Instagram
