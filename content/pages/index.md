@@ -134,7 +134,7 @@ sections:
       self:
         width: full
         padding:
-          - pt-7
+          - pt-8
           - pb-2
         borderWidth: 1
   - type: HeroSection
