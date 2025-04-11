@@ -289,7 +289,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Ubicación en Google Maps
+        label: Ubicación
         altText: ''
         url: /ubicacion
         showIcon: false
