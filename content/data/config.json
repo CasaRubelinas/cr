@@ -42,7 +42,7 @@
                 "type": "Link",
                 "label": "Reseñas",
                 "altText": "",
-                "url": "/reseñas",
+                "url": "/resenas",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
