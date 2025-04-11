@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/Agregar un título.png
   backgroundSize: cover
-  backgroundPosition: top
+  backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
