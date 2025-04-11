@@ -127,16 +127,6 @@ sections:
           - pr-4
         flexDirection: col
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-8
-          - pb-8
-        borderWidth: 1
   - type: HeroSection
     title: ''
     subtitle: ''
