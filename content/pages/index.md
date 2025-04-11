@@ -204,7 +204,7 @@ sections:
         borderRadius: none
         borderWidth: 0
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
