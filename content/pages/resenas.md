@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: reseñas
+title: testimonios
 sections:
   - type: FeaturedProjectsSection
     subtitle: ''
