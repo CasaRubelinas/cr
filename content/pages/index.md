@@ -210,7 +210,7 @@ sections:
         width: narrow
         padding:
           - pt-20
-          - pb-20
+          - pb-10
           - pl-4
           - pr-4
         borderWidth: 1
