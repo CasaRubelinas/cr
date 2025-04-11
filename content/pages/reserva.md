@@ -25,7 +25,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/Agregar un título.png
   backgroundSize: auto
-  backgroundPosition: right-bottom
+  backgroundPosition: left
   backgroundRepeat: no-repeat
   opacity: 80
 ---
