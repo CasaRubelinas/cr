@@ -121,14 +121,6 @@ sections:
           - pr-4
         flexDirection: col-reverse
         textAlign: center
-    media:
-      type: ImageBlock
-      url: >-
-        /images/Reserva directamente por Instagram, Facebook o Whatsapp y ahorra
-        en la comisión de airbnb..png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: HeroSection
     title: ''
     subtitle: ''
