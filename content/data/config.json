@@ -30,9 +30,9 @@
             },
             {
                 "type": "Link",
-                "label": "Galería",
+                "label": "Testimonios",
                 "altText": "",
-                "url": "/galeria",
+                "url": "/resenas",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -40,9 +40,9 @@
             },
             {
                 "type": "Link",
-                "label": "Testimonios",
+                "label": "Galería",
                 "altText": "",
-                "url": "/resenas",
+                "url": "/galeria",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
