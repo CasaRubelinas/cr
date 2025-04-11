@@ -205,7 +205,7 @@ sections:
         borderWidth: 0
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
