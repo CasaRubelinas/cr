@@ -135,7 +135,7 @@ sections:
         width: full
         padding:
           - pt-8
-          - pb-2
+          - pb-8
         borderWidth: 1
   - type: HeroSection
     title: ''
