@@ -157,7 +157,9 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/RUBELINAS_GOOGLE (6).png
+      url: >-
+        /images/Reserva directamente por Instagram, Facebook o Whatsapp y ahorra
+        en la comisión de airbnb. (5).png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
