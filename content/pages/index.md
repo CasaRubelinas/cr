@@ -157,9 +157,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: >-
-        /images/Reserva directamente por Instagram, Facebook o Whatsapp y ahorra
-        en la comisión de airbnb. (5).png
+      url: /images/Sisio web rubelinas (1).png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
