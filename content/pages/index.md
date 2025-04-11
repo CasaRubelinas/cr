@@ -226,7 +226,7 @@ sections:
           - pb-10
           - pl-4
           - pr-4
-        flexDirection: row
+        flexDirection: col
         textAlign: left
     media:
       type: ImageBlock
