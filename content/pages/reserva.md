@@ -24,7 +24,7 @@ colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/Agregar un título.png
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: left
   backgroundRepeat: no-repeat
   opacity: 80
