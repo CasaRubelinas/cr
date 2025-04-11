@@ -217,7 +217,16 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /info
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
